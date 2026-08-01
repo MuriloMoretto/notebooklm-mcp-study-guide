@@ -324,3 +324,20 @@ O Model Context Protocol representa um importante avanço na forma como aplicaç
 ----------------------------------------------------------------------------------------------------------
 
 Glossário:
+
+| Termo | Definição |
+|-------|-----------|
+| **MCP (Model Context Protocol)** | Protocolo aberto que padroniza a comunicação entre modelos de IA e ferramentas, serviços e fontes de dados externas. |
+| **LLM (Large Language Model)** | Modelo de linguagem treinado em grandes volumes de texto, capaz de compreender e gerar linguagem natural. |
+| **Cliente MCP (MCP Client)** | Aplicação responsável por estabelecer comunicação com um servidor MCP para utilizar seus recursos. |
+| **Servidor MCP (MCP Server)** | Componente que disponibiliza ferramentas, recursos e funcionalidades para clientes MCP. |
+| **Tool (Ferramenta)** | Função que pode ser executada por um modelo de IA por meio do protocolo MCP. |
+| **Resource (Recurso)** | Documento, arquivo ou dado disponibilizado pelo servidor para consulta do modelo de IA. |
+| **Prompt** | Instrução enviada ao modelo de IA para solicitar uma resposta ou executar uma tarefa. |
+| **Prompt Engineering** | Processo de criar, testar e refinar prompts para obter respostas mais precisas e úteis dos modelos de IA. |
+| **API (Application Programming Interface)** | Interface que permite a comunicação entre diferentes sistemas e aplicações. |
+| **JSON-RPC** | Protocolo de comunicação baseado em JSON utilizado por muitas implementações do MCP para troca de mensagens. |
+| **Contexto** | Conjunto de informações fornecidas ao modelo para melhorar a qualidade e a precisão das respostas. |
+| **Open Source** | Software ou tecnologia cujo código-fonte é disponibilizado publicamente para uso, estudo e colaboração. |
+
+----------------------------------------------------------------------------------------------------------
