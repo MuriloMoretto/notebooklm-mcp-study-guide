@@ -341,3 +341,35 @@ Glossário:
 | **Open Source** | Software ou tecnologia cujo código-fonte é disponibilizado publicamente para uso, estudo e colaboração. |
 
 ----------------------------------------------------------------------------------------------------------
+
+Prompts Reutilizáveis:
+
+Explique este conceito como se eu fosse um iniciante na área de tecnologia.
+Explique este assunto utilizando exemplos do cotidiano.
+Quais são os conceitos mais importantes deste assunto e por que eles são relevantes?
+Quais problemas esta tecnologia busca resolver?
+Quais são as vantagens e desvantagens desta tecnologia?
+Crie um quiz com 10 perguntas sobre este conteúdo.
+Crie cinco flashcards para revisar este assunto.
+Quais empresas ou ferramentas utilizam esta tecnologia atualmente?
+Tenho uma prova amanhã. Faça um resumo completo deste conteúdo.
+
+----------------------------------------------------------------------------------------------------------
+
+Evidências:
+
+Presentes na pasta "assets" do projeto.
+
+----------------------------------------------------------------------------------------------------------
+
+Conclusão:
+
+O desenvolvimento deste projeto permitiu aprofundar os conhecimentos sobre o MCP (Model Context Protocol) e compreender sua importância no contexto das aplicações modernas de Inteligência Artificial. Por meio de diferentes fontes e da utilização do NotebookLM da Google, foi possível consolidar conceitos, identificar aplicações práticas e reconhecer limitações.
+
+Além do aprendizado sobre o tema estudado, a atividade proporcionou uma experiência prática com técnicas de Engenharia de Prompts, abordadas na unidade 1 do BootCamp da DIO.
+
+A utilização do NotebookLM mostrou-se uma ferramenta eficiente para organizar fontes, sintetizar conteúdos e apoiar o processo de aprendizagem ativa, permitindo uma compreensão mais estruturada de um  assunto.
+
+Por fim, os objetivos propostos para este projeto foram alcançados, resultando na construção de um material de estudo organizado, documentado e reutilizável, que poderá servir como referência para futuras consultas e aprofundamentos sobre o MCP (Model Context Protocol).
+
+----------------------------------------------------------------------------------------------------------
